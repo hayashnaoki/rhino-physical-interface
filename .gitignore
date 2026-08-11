@@ -216,3 +216,31 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Microcontroller / PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+*.hex
+*.bin
+*.elf
+
+# CAD / Rhino 8 / Grasshopper
+*.3dm.rhl
+*.3dm.bak
+*.3dmbak
+*_autosave.3dm
+
+# Grasshopper lock & backup files
+*.ghx.lock
+*.gh.lock
+*.gh.bak
+*.ghx.bak
+
+# Antigravity IDE / VS Code
+.antigravity/
+.vscode/
+
+# OS Common
+.DS_Store
+Thumbs.db
