@@ -5,6 +5,8 @@
 A real-time 3D geometry deformation system in Rhino 8 and Grasshopper. It receives sensor telemetry (MPU-6050 IMU & HC-SR04 Ultrasonic) from an external microcontroller via USB Serial (`pyserial`), driving parametric mesh deformations and generating smooth SubD surfaces on the fly.
 
 
+https://github.com/user-attachments/assets/f19488fa-f765-464e-802b-4acdf98a3f7c
+
 
 ---
 
