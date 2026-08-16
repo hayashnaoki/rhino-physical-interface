@@ -3,6 +3,8 @@
 Custom G-code generator for non-planar 3D printing paths built with Grasshopper.
 
 
+https://github.com/user-attachments/assets/d4d58d08-c566-409f-a366-8e5581c282cd
+
 
 ---
 
